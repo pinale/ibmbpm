@@ -37,3 +37,28 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 <script src="https://gist.github.com/pinale/b2d8bd5c0378234d82cc2f437930a230.js"></script>
+```typescript
+@Component({
+
+  selector: 'app-root',
+
+  templateUrl: './app.component.html'
+
+})
+
+export class AppComponent {
+
+  .....
+
+
+
+  @ViewChild(ColorSampleComponent)
+
+  primarySampleComponent: ColorSampleComponent;
+
+
+
+  .....
+
+}
+```
