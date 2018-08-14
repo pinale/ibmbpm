@@ -1,0 +1,1 @@
+<img src="images/scalar-value.gif" alt="variable mapping"/>
