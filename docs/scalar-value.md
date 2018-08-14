@@ -3,6 +3,7 @@
 > servive type to use  `SQL Execute Statement`
 
 tw.local.sql = "select count(codice) as COUNTVAL from prodotti"
+
 tw.local.result (**ANY**)
 
 <img src="images/scalar-value.png" alt="variable mapping"/>
