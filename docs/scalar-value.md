@@ -8,4 +8,4 @@ tw.local.result (**ANY**)
 
 returnType (String) **IMPORTANT!!!** *MUST BE NULL OR EMPTY STRING nonrmally is the type to map, not in this case.*
 
-to get the value: `tw.local.result[0].rows[0].indexedMap.COUNTVAL;`
+> to get the value: `tw.local.result[0].rows[0].indexedMap.COUNTVAL;`
